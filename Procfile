@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/study-bot-1.0-SNAPSHOT.jar
